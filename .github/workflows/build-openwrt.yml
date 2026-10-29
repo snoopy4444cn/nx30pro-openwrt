@@ -1,4 +1,4 @@
-name: Build NX30PRO OpenWrt
+name: Build NX30PRO OpenWr
 
 on:
   workflow_dispatch:
